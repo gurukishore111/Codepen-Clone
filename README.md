@@ -1,6 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-### Live Demo - https://codepen-clone-gk.netlify.app/
-### Image:
+
+#### Live Demo - https://codepen-clone-gk.netlify.app/
+#### Image:
 ![codepen-clone](https://user-images.githubusercontent.com/52570524/93755018-3c5b7080-fc20-11ea-8ead-e070d222f955.png)
 
 
